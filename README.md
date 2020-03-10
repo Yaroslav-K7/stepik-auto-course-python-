@@ -1,2 +1,3 @@
 # stepik-auto-course-python-
-home tasks
+home tasks for course
+
